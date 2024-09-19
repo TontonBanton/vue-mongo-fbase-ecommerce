@@ -1,5 +1,6 @@
 <template>
   <h1>TonTon Banton</h1>
+  <router-view />
 </template>
 
 <script>
